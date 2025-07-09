@@ -12,5 +12,7 @@ Proyecto Productivo del Sena Tecnico en Programacion de software
 # FUNCIONALIDADES
 * GENERALIDADES
    ![image](https://github.com/user-attachments/assets/aac14d8e-f284-4555-9171-e95c2e1ce145)
+  
 * EXPORTACION
+  
    ![image](https://github.com/user-attachments/assets/2b97aa1b-2f66-4643-a34b-e334abf39d55)
